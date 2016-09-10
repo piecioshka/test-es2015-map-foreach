@@ -1,5 +1,3 @@
-'use strict';
-
 let m = new Map();
 let o = [1, 2];
 let v = [];

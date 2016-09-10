@@ -1,3 +1,5 @@
 {
-  "private": true
+    "private": true,
+    "name": "test-es6-map-foreach",
+    "version": "0.0.0"
 }

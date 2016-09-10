@@ -1,4 +1,6 @@
-# test-es6-set
+# test-es6-map-foreach
+
+> :ledger: Testing code for check that Map#forEach is working.
 
 More:
 
